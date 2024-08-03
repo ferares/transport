@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Uruguayan Buildings 0.0.1
+STR_GRF_DESCRIPTION :Uruguayan Buildings Set
+STR_GRF_LABEL       :Uruguayan Buildings Set

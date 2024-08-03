@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Uruguayan Town Names 0.0.1
+STR_GRF_DESCRIPTION :170 real town names from Uruguay
+STR_GRF_LABEL       :Uruguayan Town Names
